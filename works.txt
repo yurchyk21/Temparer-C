@@ -1,0 +1,26 @@
+11001:CEO:
+11002:Financial director:
+11003:Improvement director:
+11004:Production director:
+11005:Quality director:
+11006:Sales direktor:
+11007:Tehnical direktor:
+11020:chief accountant:
+11021:accountant:
+11022:analitik:
+11023:Controler:
+11025:economist:
+11041:HR manager:
+11050:head:
+11051:head assistant:
+11061:Jurist:
+11075:locksmith :
+11081:dentist:
+11082:doctor:
+11091:cleaner:
+11092:driver:
+11101:engineer:
+11102:specialist:
+11102:logist:
+11103:Tehnik:
+11111:Sekretar:

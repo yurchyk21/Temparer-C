@@ -1,0 +1,22 @@
+9002:Sekretariat:
+9003:general department:
+9007:safety department:
+9008:Jurist department:
+9009:Medical department:
+9011:Accounts department:
+9012:Budget department:
+9013:Economics department:
+9014:Finanñial department:
+9015:Price department:
+9021:HR department:
+9031:Central laboratory:
+9022:motivation department:
+9041:Quality control:
+9042:Quality laboratory:
+9051:Complactation buro:
+9052:Kooperations buro:
+9053:Materials buro:
+9061:Logistics department:
+9062:Customs department:
+9071:Storage department:
+9999:Coder:
